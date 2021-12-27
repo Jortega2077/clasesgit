@@ -8,5 +8,6 @@
        Else;
         Dsply Knr;
        Endif;
+       Dsply Knr;
        *Inlr = *On;
       /End-Free
